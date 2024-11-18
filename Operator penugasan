@@ -1,0 +1,13 @@
+public class operatorpenugasan {
+	public static void main(String[] args) {
+		int c = 71;
+
+		// Operator penugasan penambahan (+=)
+		c += 25;  // Sama dengan c = c + 25;
+		System.out.println("Hasil c += 25 = " + c);
+
+		// Operator penugasan pengurangan (-=)
+		c -= 13;  // Sama dengan c = c - 13;
+		System.out.println("Hasil c -= 13 = " + c);
+	}
+}
