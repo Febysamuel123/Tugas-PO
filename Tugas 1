@@ -1,0 +1,7 @@
+class Defenti
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("Defenti");
+	}
+}
